@@ -1,0 +1,9 @@
+body{
+    background-color: mediumslateblue;
+}
+
+h1{
+    font-size: 200px;
+    overflow: hidden;
+    color:cadetblue;
+}
